@@ -2,7 +2,7 @@
 
 ## INSTALL
 
-1. Download last VividLayersServer (https://github.com/Muxtel/VividLayers-Public/releases)[release]
+1. Download last VividLayersServer [release](https://github.com/Muxtel/VividLayers-Public/releases)
 2. Copy all the files in `/demo` to your local `~/Documents/VividLayers/`
 3. Execute (if it wasn't after installation) VividLayersServer.exe
 4. A browser opens with a web client
