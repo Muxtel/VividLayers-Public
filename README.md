@@ -67,12 +67,3 @@ Aussi, contrairement à d'autres services de titrage online :
 - Moniteur "preview"
 - Client multi-plateforme (Windows/OsX/Android) et un client multi support (Desktop/App Smartphone/App Tablette)
 
-
-# Notes developpeur
-
-- [Documentation détaillée](./docs/)
-- [Documentation Frontend](./frontend/README.md)
-- [Documentation Backend](./backend/README.md)
-- [Documentation Display](./backend/display/README.md)
-
-
