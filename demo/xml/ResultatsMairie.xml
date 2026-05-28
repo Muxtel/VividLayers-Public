@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<root>
+  <izena>Maule-Lextarre</izena>
+  <milaBainoGutxiago>false</milaBainoGutxiago>
+  <bozdunak>1878</bozdunak>
+  <balekoak>1812</balekoak>
+  <abstentzioa>21.91</abstentzioa>
+  <zerrendak>
+    <zerrendakItem>
+      <zerrenda>Union Citoyenne</zerrenda>
+      <hautagaia>Louis LABADOT</hautagaia>
+      <bozkaKopurua>857</bozkaKopurua>
+      <bozkaEhunekoa>47.3</bozkaEhunekoa>
+    </zerrendakItem>
+    <zerrendakItem>
+      <zerrenda>AITZINA MAULE- MAULEON POUR TOUS</zerrenda>
+      <hautagaia>Beñat ELKEGARAI</hautagaia>
+      <bozkaKopurua>631</bozkaKopurua>
+      <bozkaEhunekoa>34.82</bozkaEhunekoa>
+    </zerrendakItem>
+    <zerrendakItem>
+      <zerrenda>BIEN VIVRE A MAULEON-LICHARRE</zerrenda>
+      <hautagaia>Armanda AKOZE</hautagaia>
+      <bozkaKopurua>324</bozkaKopurua>
+      <bozkaEhunekoa>17.88</bozkaEhunekoa>
+    </zerrendakItem>
+  </zerrendak>
+</root>

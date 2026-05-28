@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TeenageChrono xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Runs>
+    <Run>
+      <Nom>Run 1</Nom>
+      <Chrono>00:00</Chrono>
+    </Run>
+    <Run>
+      <Nom>Run 2</Nom>
+      <Chrono>00:00</Chrono>
+    </Run>
+    <Run>
+      <Nom>Run 3</Nom>
+      <Chrono>00:00</Chrono>
+    </Run>
+  </Runs>
+</TeenageChrono>

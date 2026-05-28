@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<root>
+  <lurraldeak>
+    <lurraldeakItem>
+      <izena>Lapurdi</izena>
+      <hiriak>
+        <hiriakItem>
+          <izena>Arbona</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>1482</bozdunak>
+          <balekoak>1441</balekoak>
+          <abstentzioa>27.99</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>Arbonabatua Arbonne unie</zerrenda>
+              <hautagaia>Guillaume FOURQUET</hautagaia>
+              <bozkaKopurua>812</bozkaKopurua>
+              <bozkaEhunekoa>56.35</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>ARBONNE DEMAIN - BIHARKO ARBONA</zerrenda>
+              <hautagaia>Beñat ARLA</hautagaia>
+              <bozkaKopurua>629</bozkaKopurua>
+              <bozkaEhunekoa>43.65</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Azkaine</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>2880</bozdunak>
+          <balekoak>2799</balekoak>
+          <abstentzioa>28.64</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>ENTZUN AZKAINE - ECOUTONS ASCAIN</zerrenda>
+              <hautagaia>Benedicte LUBERRIAGA</hautagaia>
+              <bozkaKopurua>1196</bozkaKopurua>
+              <bozkaEhunekoa>42.73</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>AZKAINE BAI</zerrenda>
+              <hautagaia>Elorri MANTEROLA</hautagaia>
+              <bozkaKopurua>1068</bozkaKopurua>
+              <bozkaEhunekoa>38.16</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>LE VILLAGE QUE NOUS VOULONS - NAHI DEGUN HERRIA</zerrenda>
+              <hautagaia>Jean Louis LADUCHE</hautagaia>
+              <bozkaKopurua>535</bozkaKopurua>
+              <bozkaEhunekoa>19.11</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Baiona</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>19860</bozdunak>
+          <balekoak>19481</balekoak>
+          <abstentzioa>45.41</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>BAYONNE L'ESSENTIEL C'EST VOUS !</zerrenda>
+              <hautagaia>Jean-Rene ETXEGARAI</hautagaia>
+              <bozkaKopurua>9876</bozkaKopurua>
+              <bozkaEhunekoa>50.7</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Rassemblés pour Bayonne - Elkarrekin Baionarentzat</zerrenda>
+              <hautagaia>Jean Claude IRIART</hautagaia>
+              <bozkaKopurua>7990</bozkaKopurua>
+              <bozkaEhunekoa>41.01</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Unis pour Bayonne l'Alternative !</zerrenda>
+              <hautagaia>Pascal LESELLIER</hautagaia>
+              <bozkaKopurua>1615</bozkaKopurua>
+              <bozkaEhunekoa>8.29</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Miarritze</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>14437</bozdunak>
+          <balekoak>14201</balekoak>
+          <abstentzioa>39.36</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>MON EQUIPE C'EST BIARRITZ !</zerrenda>
+              <hautagaia>Serge BLANCO</hautagaia>
+              <bozkaKopurua>5953</bozkaKopurua>
+              <bozkaEhunekoa>41.92</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Ensemble, vivons Biarritz</zerrenda>
+              <hautagaia>Maider AROSTEGI</hautagaia>
+              <bozkaKopurua>4574</bozkaKopurua>
+              <bozkaEhunekoa>32.21</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>BIARRITZ BERRI NOUVELLE VAGUE</zerrenda>
+              <hautagaia>Ana EZKURRA</hautagaia>
+              <bozkaKopurua>3674</bozkaKopurua>
+              <bozkaEhunekoa>25.87</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Bokale</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>4158</bozdunak>
+          <balekoak>4074</balekoak>
+          <abstentzioa>35.7</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>VIVONS BOUCAU - Un élan citoyen</zerrenda>
+              <hautagaia>Mathieu HORN</hautagaia>
+              <bozkaKopurua>1523</bozkaKopurua>
+              <bozkaEhunekoa>37.38</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>AGIR ENSEMBLE POUR LE BOUCAU</zerrenda>
+              <hautagaia>Guy BOULANGER</hautagaia>
+              <bozkaKopurua>1216</bozkaKopurua>
+              <bozkaEhunekoa>29.85</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>BOUCAU CONVIVIAL ET DEVELOPPEMENT DURABLE</zerrenda>
+              <hautagaia>Francis GONZALEZ</hautagaia>
+              <bozkaKopurua>727</bozkaKopurua>
+              <bozkaEhunekoa>17.84</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>BOUCAU AU COEUR POUR UNE VILLE PLURIELLE ET SOLIDAIRE</zerrenda>
+              <hautagaia>Helene ETXENIKE</hautagaia>
+              <bozkaKopurua>608</bozkaKopurua>
+              <bozkaEhunekoa>14.92</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Beskoitze</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>1684</bozdunak>
+          <balekoak>1642</balekoak>
+          <abstentzioa>28.95</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>Briscous Vous Beskoitze Zuekin</zerrenda>
+              <hautagaia>Pascal JOCOU</hautagaia>
+              <bozkaKopurua>855</bozkaKopurua>
+              <bozkaEhunekoa>52.07</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Briscous,Beskoitze,cap sur l'avenir</zerrenda>
+              <hautagaia>Catherine ERREKART</hautagaia>
+              <bozkaKopurua>449</bozkaKopurua>
+              <bozkaEhunekoa>27.34</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Ensemble elgarrekin</zerrenda>
+              <hautagaia>Theo Jacques Julien SALAMON</hautagaia>
+              <bozkaKopurua>338</bozkaKopurua>
+              <bozkaEhunekoa>20.58</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Kanbo</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>3359</bozdunak>
+          <balekoak>3304</balekoak>
+          <abstentzioa>33.64</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>KANBO ELKARTU</zerrenda>
+              <hautagaia>Peio ETXELEKU</hautagaia>
+              <bozkaKopurua>1538</bozkaKopurua>
+              <bozkaEhunekoa>46.55</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Cambo en avant - &quot;Jo Aintzina&quot;</zerrenda>
+              <hautagaia>Christian DEVEZE</hautagaia>
+              <bozkaKopurua>1115</bozkaKopurua>
+              <bozkaEhunekoa>33.75</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>NAHI DUGUN HERRIA / LA COMMUNE QUE NOUS VOULONS</zerrenda>
+              <hautagaia>Argitxu HIRIART-URRUTY</hautagaia>
+              <bozkaKopurua>651</bozkaKopurua>
+              <bozkaEhunekoa>19.7</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Hendaia</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>6119</bozdunak>
+          <balekoak>5985</balekoak>
+          <abstentzioa>41.8</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>HENDAYE EMSEMBLE - HENDAIA ELGARREKIN</zerrenda>
+              <hautagaia>Kotte EZENARRO</hautagaia>
+              <bozkaKopurua>2652</bozkaKopurua>
+              <bozkaEhunekoa>44.31</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>HENDAIA BILTZEN - Uni.e.s pour Hendaye</zerrenda>
+              <hautagaia>Laetitia NAVARRON</hautagaia>
+              <bozkaKopurua>1949</bozkaKopurua>
+              <bozkaEhunekoa>32.56</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>VIVRE HENDAYE - l'avenir vous appartient !</zerrenda>
+              <hautagaia>Tristan PROTEAU</hautagaia>
+              <bozkaKopurua>1384</bozkaKopurua>
+              <bozkaEhunekoa>23.12</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Donibane Lohizune</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>7442</bozdunak>
+          <balekoak>7284</balekoak>
+          <abstentzioa>38.78</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>SAINT-JEAN PASSIONNEMENT</zerrenda>
+              <hautagaia>Jean-François IRIGOIEN</hautagaia>
+              <bozkaKopurua>3523</bozkaKopurua>
+              <bozkaEhunekoa>48.37</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Manuel de LARA,un nouvel élan,avec vous</zerrenda>
+              <hautagaia>Manuel DE LARA</hautagaia>
+              <bozkaKopurua>1987</bozkaKopurua>
+              <bozkaEhunekoa>27.28</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>Donibanen Bizi : Vivre à Saint-Jean-de-Luz</zerrenda>
+              <hautagaia>Pascal LAFITTE</hautagaia>
+              <bozkaKopurua>1774</bozkaKopurua>
+              <bozkaEhunekoa>24.35</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+        <hiriakItem>
+          <izena>Urruña</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>5957</bozdunak>
+          <balekoak>5871</balekoak>
+          <abstentzioa>30.83</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>VIVONS URRUGNE AUTREMENT / ONGI BIZI URRUÑAN</zerrenda>
+              <hautagaia>Sebastien ETXEBARNE</hautagaia>
+              <bozkaKopurua>2844</bozkaKopurua>
+              <bozkaEhunekoa>48.44</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>ELGARREKIN URRUGNE</zerrenda>
+              <hautagaia>Philippe ARAMENDI</hautagaia>
+              <bozkaKopurua>2210</bozkaKopurua>
+              <bozkaEhunekoa>37.64</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>DU COEUR ET DES ACTES</zerrenda>
+              <hautagaia>Martine MIGNOT-CARME</hautagaia>
+              <bozkaKopurua>817</bozkaKopurua>
+              <bozkaEhunekoa>13.92</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+      </hiriak>
+    </lurraldeakItem>
+    <lurraldeakItem>
+      <izena>Zuberoa</izena>
+      <hiriak>
+        <hiriakItem>
+          <izena>Maule-Lextarre</izena>
+          <milaBainoGutxiago>false</milaBainoGutxiago>
+          <bozdunak>1878</bozdunak>
+          <balekoak>1812</balekoak>
+          <abstentzioa>21.91</abstentzioa>
+          <zerrendak>
+            <zerrendakItem>
+              <zerrenda>Union Citoyenne</zerrenda>
+              <hautagaia>Louis LABADOT</hautagaia>
+              <bozkaKopurua>857</bozkaKopurua>
+              <bozkaEhunekoa>47.3</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>AITZINA MAULE- MAULEON POUR TOUS</zerrenda>
+              <hautagaia>Beñat ELKEGARAI</hautagaia>
+              <bozkaKopurua>631</bozkaKopurua>
+              <bozkaEhunekoa>34.82</bozkaEhunekoa>
+            </zerrendakItem>
+            <zerrendakItem>
+              <zerrenda>BIEN VIVRE A MAULEON-LICHARRE</zerrenda>
+              <hautagaia>Armanda AKOZE</hautagaia>
+              <bozkaKopurua>324</bozkaKopurua>
+              <bozkaEhunekoa>17.88</bozkaEhunekoa>
+            </zerrendakItem>
+          </zerrendak>
+        </hiriakItem>
+      </hiriak>
+    </lurraldeakItem>
+  </lurraldeak>
+</root>

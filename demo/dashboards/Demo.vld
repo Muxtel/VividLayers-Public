@@ -1,0 +1,429 @@
+[
+  {
+    "id": 0,
+    "title": {
+      "name": "Chrono",
+      "model": "teenageChrono",
+      "description": null,
+      "matrix3d": null,
+      "id": 37,
+      "owner_id": 28,
+      "data_source": {
+        "name": "Chrono",
+        "id": 2,
+        "owner_id": 28,
+        "data_path": "C:\\Users\\dugla\\OneDrive\\Documents\\VividLayers\\xml\\Chrono.xml"
+      }
+    },
+    "name": "Chrono",
+    "show_data_index_select": true,
+    "selected_data_index": 1,
+    "layer": {
+      "name": "(1)",
+      "description": null,
+      "order": 0,
+      "selected_data_index": 0,
+      "id": 17,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Chrono",
+        "model": "teenageChrono",
+        "description": null,
+        "matrix3d": null,
+        "id": 37,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Chrono",
+          "id": 2,
+          "owner_id": 28,
+          "data_path": "C:\\Users\\dugla\\OneDrive\\Documents\\VividLayers\\xml\\Chrono.xml"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 0,
+    "y": 0,
+    "w": 260,
+    "h": 180,
+    "is_timer": true,
+    "is_countdown": true,
+    "xpath": "//Run",
+    "var_name": "Chrono"
+  },
+  {
+    "id": 1,
+    "title": {
+      "name": "Current Rider",
+      "model": "teenageRunner",
+      "description": null,
+      "matrix3d": null,
+      "id": 41,
+      "owner_id": 28,
+      "data_source": {
+        "name": "Data",
+        "id": 1,
+        "owner_id": 28,
+        "data_path": "xls/Data.xlsx"
+      }
+    },
+    "name": "Rider",
+    "show_data_index_select": true,
+    "selected_data_index": 1,
+    "layer": {
+      "name": "3",
+      "description": null,
+      "order": 2,
+      "selected_data_index": 0,
+      "id": 19,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Chrono",
+        "model": "teenageChrono",
+        "description": null,
+        "matrix3d": null,
+        "id": 37,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Chrono",
+          "id": 2,
+          "owner_id": 28,
+          "data_path": "xml/Chrono.xml"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 0,
+    "y": 160,
+    "w": 260,
+    "h": 180,
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  },
+  {
+    "id": 2,
+    "title": {
+      "name": "Fiche Rider",
+      "model": "teenageFicheSkater",
+      "description": null,
+      "matrix3d": null,
+      "id": 38,
+      "owner_id": 28,
+      "data_source": {
+        "name": "Data",
+        "id": 1,
+        "owner_id": 28,
+        "data_path": "xls/Data.xlsx"
+      }
+    },
+    "name": "Fiche rider",
+    "show_data_index_select": true,
+    "selected_data_index": 1,
+    "layer": {
+      "name": "1",
+      "description": null,
+      "order": 0,
+      "selected_data_index": 1,
+      "id": 17,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Chrono",
+        "model": "teenageChrono",
+        "description": null,
+        "matrix3d": null,
+        "id": 37,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Chrono",
+          "id": 2,
+          "owner_id": 28,
+          "data_path": "xml/Chrono.xml"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 280,
+    "y": 0,
+    "w": 200,
+    "h": "auto",
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  },
+  {
+    "id": 3,
+    "title": {
+      "name": "Synthe",
+      "model": "teenageSynthe",
+      "description": null,
+      "matrix3d": null,
+      "id": 39,
+      "owner_id": 28,
+      "data_source": {
+        "name": "Data",
+        "id": 1,
+        "owner_id": 28,
+        "data_path": "xls/Data.xlsx"
+      }
+    },
+    "name": "Synthe",
+    "show_data_index_select": true,
+    "selected_data_index": 1,
+    "layer": {
+      "name": "4",
+      "description": null,
+      "order": 3,
+      "selected_data_index": 0,
+      "id": 20,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Chrono",
+        "model": "teenageChrono",
+        "description": null,
+        "matrix3d": null,
+        "id": 37,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Chrono",
+          "id": 2,
+          "owner_id": 28,
+          "data_path": "xml/Chrono.xml"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 500,
+    "y": 0,
+    "w": 200,
+    "h": "auto",
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  },
+  {
+    "id": 4,
+    "title": {
+      "name": "Classement",
+      "model": "teenageClassement",
+      "description": null,
+      "matrix3d": null,
+      "id": 40,
+      "owner_id": 28,
+      "data_source": {
+        "name": "Data",
+        "id": 1,
+        "owner_id": 28,
+        "data_path": "xls/Data.xlsx"
+      }
+    },
+    "name": "Classement GIRLS",
+    "show_data_index_select": false,
+    "selected_data_index": 0,
+    "layer": {
+      "name": "1",
+      "description": null,
+      "order": 0,
+      "selected_data_index": 1,
+      "id": 17,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Fiche Rider",
+        "model": "teenageFicheSkater",
+        "description": null,
+        "matrix3d": null,
+        "id": 38,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Data",
+          "id": 1,
+          "owner_id": 28,
+          "data_path": "xls/Data.xlsx"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 720,
+    "y": 0,
+    "w": 200,
+    "h": "auto",
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  },
+  {
+    "id": 5,
+    "title": {
+      "name": "HBCharts",
+      "model": "HBCharts",
+      "description": null,
+      "matrix3d": null,
+      "id": 42,
+      "owner_id": 28,
+      "data_source": {
+        "name": "ResultatsMairie",
+        "id": 3,
+        "owner_id": 28,
+        "data_path": "xml/ResultatsMairie.xml"
+      }
+    },
+    "name": "ELECTIONS - Résultat mairie",
+    "show_data_index_select": false,
+    "selected_data_index": 0,
+    "layer": {
+      "name": "2",
+      "description": null,
+      "order": 1,
+      "selected_data_index": 0,
+      "id": 18,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Chrono",
+        "model": "teenageChrono",
+        "description": null,
+        "matrix3d": null,
+        "id": 37,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Chrono",
+          "id": 2,
+          "owner_id": 28,
+          "data_path": "xml/Chrono.xml"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 0,
+    "y": 340,
+    "w": 200,
+    "h": "auto",
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  },
+  {
+    "id": 6,
+    "title": {
+      "name": "HBBandeau",
+      "model": "HBBandeau",
+      "description": null,
+      "matrix3d": null,
+      "id": 43,
+      "owner_id": 28,
+      "data_source": {
+        "name": "TousResultats",
+        "id": 4,
+        "owner_id": 28,
+        "data_path": "xml/TousResultats.xml"
+      }
+    },
+    "name": "ELECTIONS  - Bandeau résultats",
+    "show_data_index_select": false,
+    "selected_data_index": 0,
+    "layer": {
+      "name": "3",
+      "description": null,
+      "order": 2,
+      "selected_data_index": 1,
+      "id": 19,
+      "owner_id": 28,
+      "action": {
+        "name": "STOP",
+        "description": "",
+        "id": 2
+      },
+      "title": {
+        "name": "Current Rider",
+        "model": "teenageRunner",
+        "description": null,
+        "matrix3d": null,
+        "id": 41,
+        "owner_id": 28,
+        "data_source": {
+          "name": "Data",
+          "id": 1,
+          "owner_id": 28,
+          "data_path": "xls/Data.xlsx"
+        }
+      },
+      "skin": {
+        "name": "default",
+        "description": null,
+        "id": 7,
+        "owner_id": 28
+      }
+    },
+    "x": 220,
+    "y": 340,
+    "w": 300,
+    "h": 80,
+    "is_timer": false,
+    "is_countdown": false,
+    "xpath": "",
+    "var_name": ""
+  }
+]
