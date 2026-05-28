@@ -8,11 +8,15 @@
 4. A browser opens with a web client
 5. Import a Dashboard config from `~/Documents/VividLayers/dashboards/`   
 6. Enjoy it in preview mode...
-7. Or continue :
-8. Click on the "Copy URL to clipboard" button (top right)
-9. Open your streaming app (OBS, vMix...)
-10. Create a Browser input and paste the URL
-11. Enjoy
+
+Or continue in a streaming app :
+
+7. Click on the "Copy URL to clipboard" button (top right)
+8. Open your streaming app (OBS, vMix...)
+9. Create a Browser input and paste the URL
+10. Enjoy
+
+If you don't want to connect to a distant server you don't need to install VividLayersClient.exe. A webclient is allrady included in VividLayersServer.
 
 # Description
 VividLayers est un ensemble d'applications pour l'habillage et le titrage 2D et pseudo-3D pour la télévision et le streaming vidéo, **multi plateforme** (Windows/OsX/Android) et **multi support** (Desktop/App Smartphone/App Tablette)
