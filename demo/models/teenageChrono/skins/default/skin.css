@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'AgyxBold';
+    src: url('./fonts/AgyxMono-Bold.otf') format('opentype');
+    font-weight: bold; 
+    font-style: normal; 
+}
+@font-face {
+    font-family: 'MonoRG';
+    src: url('./fonts/monofonto-rg.otf') format('opentype');
+}
+
+#anim-container{
+    background-image: url('./assets/FondChrono.png');
+}
+
+:host{
+    --font1: "AgyxBold";
+    --font2 : "MonoRG";
+    --color1: #c43a2d;
+    --color2: #ffffff;
+}

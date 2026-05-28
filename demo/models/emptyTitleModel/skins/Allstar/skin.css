@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'SkinFont1';
+    src: url('./fonts/eurostile.woff2') format('woff2');
+    font-weight: bolder; 
+    font-style: italic; 
+}
+@font-face {
+    font-family: 'SkinFont2';
+    src: url('./fonts/DINCondensed-Bold.ttf') format('truetype');
+}
+:host{
+    all: initial;
+    --bg-color: #ECCB18;
+    --font-family: 'DIN';
+    --border-radius : 0px;
+    --border-color: #ffffff;
+    --color :#373738;
+}

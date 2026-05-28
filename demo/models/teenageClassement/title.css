@@ -1,0 +1,103 @@
+#teenageClassement{
+    position: absolute;
+    inset: 0;
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+#container{
+    position: relative;
+    box-sizing: border-box;
+    width: 800px;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    padding: 200px 0px 120px;
+    color: var(--color2);
+    gap: 10px;
+}
+
+#titre-container{
+    flex:0;
+    font-family: var(--font2);
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#classement{
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    padding: 20px 0px;
+}
+
+#classement::before{
+    content: "";
+    position: absolute;
+    inset: 0 0;
+    background-color: var(--color1);
+    mix-blend-mode:screen;
+    opacity: 0.8;
+}
+
+#classement-container{
+    position: relative;
+    flex: 1;
+    font-family: var(--font1);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1;
+}
+
+.runner{
+    flex: 1;
+    background-color: var(--color3);
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    padding: 5px 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.position{
+    font-family: var(--font2);
+    width: 50px;
+    text-align: left;
+}
+
+.prenom-nom{
+    flex:1;
+    text-transform: uppercase;
+    text-align: left;
+    font-family: var(--font1);
+    overflow: hidden;
+}
+
+.drapeau{
+    width: 60px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    align-self: stretch;
+
+}
+
+.points{
+    font-family: var(--font2);
+    width: 200px;
+    text-align: right;
+}
+
+
+
+
+
+

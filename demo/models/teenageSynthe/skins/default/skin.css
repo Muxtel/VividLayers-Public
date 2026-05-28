@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'AgyxBold';
+    src: url('./fonts/AgyxMono-Bold.otf') format('opentype');
+    font-weight: bold; 
+    font-style: normal; 
+}
+@font-face {
+    font-family: 'MonoRG';
+    src: url('./fonts/monofonto-rg.otf') format('opentype');
+}
+
+:host{
+    --font1: "AgyxBold";
+    --font2 : "MonoRG";
+    --color1: #1e664e;
+    --color2: #ffffff;
+}
+
+
+.synthe-container{
+    background-image: url('./Fond.png');
+}

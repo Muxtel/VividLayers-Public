@@ -1,0 +1,32 @@
+#empty-title-model{
+    display : flex;
+    flex-direction : row;
+    height : 91px;
+    background-color: #ffffff;
+    box-shadow: -4px 4px 7px 0px #00000055;
+    padding: 4px;
+    width:fit-content;
+    position : absolute;
+    top : 67px;
+    left : 87px;
+    gap:4px;
+}
+.equipe{
+    display: flex;
+    flex-direction: column;
+    width : 48px;
+}
+.maillot{
+    height: 39px;
+    border: solid 2px black;
+}
+.score{
+    flex: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    line-height: 100%;
+    font-size: 37px;
+    color: #373738;
+}

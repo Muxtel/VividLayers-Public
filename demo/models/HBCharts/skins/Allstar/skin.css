@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'SkinFont1';
+    src: url('./fonts/Mont-Heavy.otf') format('otf');
+    font-weight: bolder; 
+    font-style: italic; 
+}
+@font-face {
+    font-family: 'SkinFont2';
+    src: url('./fonts/PFBeauSansPro-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SkinFont3';
+    src: url('./fonts/PFBeauSansPro-Bold.ttf') format('truetype');
+}
+
+:root{
+    --font1 : 'SkinFont1';
+    --font2 : 'SkinFont2';
+    --font3 : 'SkinFont3';
+}

@@ -1,0 +1,55 @@
+#teenageRunner{
+    box-sizing: border-box;
+    position: absolute;
+    left : 87px;
+    top: 130px;
+    width: auto;
+    overflow: hidden;
+    color: var(--color2);
+}
+
+#anim-container{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font1);
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
+    font-size: 20px;
+}
+
+.run{
+    color: var(--color1);
+    overflow: hidden;
+    font-family: var(--font2); 
+}
+
+
+.barre-verte{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: var(--color1);
+    font-size: 30px;
+    font-family: var(--font2);
+    padding: 5px 20px;
+}
+
+.prenom, .nom{
+    position: relative;
+    text-align: left;
+    text-transform: uppercase;
+    line-height: 1em;
+    white-space: nowrap;        
+    overflow: hidden; 
+    }
+
+.drapeau{
+    width: 45px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20px;
+}
