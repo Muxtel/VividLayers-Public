@@ -1,0 +1,45 @@
+#teenageChrono{
+    box-sizing: border-box;
+    position: absolute;
+    left : 87px;
+    top: 80px;
+    height: 50px;
+    width: 429px;
+    overflow: hidden;
+    color: var(--color2);
+}
+
+#anim-container{
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font1);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+    padding: 0px 20px;
+    height: 50px;
+    overflow: hidden;
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
+    font-size: 30px;   
+}
+
+.chrono{
+    color: var(--color);
+    text-align: left;
+    font-family: var(--font2); 
+}
+
+#run{
+    color: var(--color1);
+    overflow: hidden;
+    font-family: var(--font2); 
+}
+
+.name{
+    color: var(--color1);
+    font-family: var(--font2); 
+}

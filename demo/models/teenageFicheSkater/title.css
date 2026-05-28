@@ -1,0 +1,78 @@
+#teenageFicheSkater{
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+    width: 1920px;
+    height: 1080px;
+    box-shadow: -4px 4px 7px 0px #00000055;
+    padding: 4px;
+    position : relative;
+    align-items: center;
+    font-family: var(--font1);
+    background-color: rgba(0, 0, 0, 0.6);
+    color: var(--color2);
+}
+
+
+#fiche-container{
+    background-color: #ffffff;
+    width: 1065px;
+    height : 608px;
+    position: relative;
+    overflow: hidden;
+}
+
+.prenom, .nom{
+    position: relative;
+    left: 250px;
+    max-width: 570px;
+    font-size: 80px;
+    text-align: left;
+    text-transform: uppercase;
+    line-height: 1em;
+    white-space: nowrap;        
+    overflow: hidden; 
+    text-overflow:ellipsis; 
+}
+
+.photo{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    bottom: 0;
+    z-index: 1;
+}
+
+.barre-verte{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--color1);
+    mix-blend-mode: difference;
+    font-size: 36px;
+    font-family: var(--font2);
+    padding: 10px 30px 10px 250px;
+}
+
+.data{
+    position: absolute;
+    width: 860px;
+    height: 260px;
+    left: 200px;
+    top: 160px;
+}
+
+.ville{
+    text-transform: uppercase;
+}
+.drapeau{
+    width: 65px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+

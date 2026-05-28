@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SkinFont1';
+    src: url('./fonts/eurostile.woff2') format('woff2');
+    font-weight: bolder; 
+    font-style: italic; 
+}
+@font-face {
+    font-family: 'SkinFont2';
+    src: url('./fonts/DINCondensed-Bold.ttf') format('truetype');
+}
+.score{
+    font-family: 'SkinFont2';
+    background-color:#eccb18;
+}
+#quiniela-score-bug{
+    border-radius: 0px;
+}
