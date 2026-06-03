@@ -1,5 +1,5 @@
 (function(shadow) {
-    const observer = new MutationObserver(exec);
+    let observer;
 
     const customFunction = () => {
         ////
@@ -7,13 +7,19 @@
     }
 
 
-    function exec() {
-        observer.disconnect();
+    const exec = () => {
+        if (observer) observer.disconnect();
+    
         customFunction();
-        observer.observe(shadow, { childList: true, subtree: true });
+    
+        if (observer) {
+            observer.observe(shadow, { childList: true, subtree: true });
+        }
     }
 
-    observer.observe(shadow, { childList: true, subtree: true });
+    exec();
 
-    exec(); // exécution initiale
+    //Observe mutations pour reconstruire si le contenu change
+    observer = new MutationObserver(exec);
+    observer.observe(shadow, { childList: true, subtree: true });
 })(shadow);
