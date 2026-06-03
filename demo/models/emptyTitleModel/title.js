@@ -6,8 +6,11 @@
         /// custom code
     }
 
+
     function exec() {
+        observer.disconnect();
         customFunction();
+        observer.observe(shadow, { childList: true, subtree: true });
     }
 
     observer.observe(shadow, { childList: true, subtree: true });
